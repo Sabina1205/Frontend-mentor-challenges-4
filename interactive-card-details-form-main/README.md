@@ -23,6 +23,8 @@ Users should be able to:
 
 ![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/c84b3fb4-3507-4b4f-a157-859389dddbe5)
 
+![error_display](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/2fa211ae-58dc-4132-8d20-7bc258b78dd9)
+
 ### Links
 
 - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/interactive-card-details-form-main/)
