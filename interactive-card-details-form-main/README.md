@@ -17,9 +17,15 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/4e494bdf-7ed2-4e98-a9a7-2ef41c999243)
+
+![desktop_completed_state](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/e9c26443-7abc-4a01-92b2-4e213dc5e568)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/c84b3fb4-3507-4b4f-a157-859389dddbe5)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/interactive-card-details-form-main/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
