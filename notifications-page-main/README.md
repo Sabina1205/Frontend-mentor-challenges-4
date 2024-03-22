@@ -15,9 +15,19 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/35a6288c-89e4-46d1-8a55-1b801177cbb9)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/e84024ed-1039-40d1-81ad-6e3503844a1d)
+
+![active_state](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/15c770b3-e5d2-4dbd-af07-1d462ec2f219)
+
+![all_read](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/2c976e36-b3c9-4c3d-896c-dde2caf59650)
+
+![one_read](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/6ba6258c-c5bb-44ad-a384-ecebce82f8e7)
+
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/interactive-card-details-form-main/)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
 - Live Site URL: [Add live site URL here][(https://your-live-site-url.com](https://interactive-card-details-form-mu-rosy.vercel.app/)
 
 ## My process
