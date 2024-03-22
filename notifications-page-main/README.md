@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
 - Live Site URL: [Live site URL here](https://notifications-page-solution-one.vercel.app/)
 
 ## My process
