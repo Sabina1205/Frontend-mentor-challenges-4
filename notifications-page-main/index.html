@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Notifications page</title>
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="head_section">
+        <h3 class="header">Notifications <span id="number"></span></h3>
+        <button id="markBtn">Mark all as read</button>
+      </div>
+
+      <div class="notifications">
+        <div class="notification unread">
+          <div class="img">
+            <img src="assets/images/avatar-mark-webber.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Mark Webber</b> reacted to your recent post
+              <b class="bold">My first tournament today!</b>
+              <span class="red_dot"></span>
+            </p>
+            <p class="time">1m ago</p>
+          </div>
+        </div>
+
+        <div class="notification unread">
+          <div class="img">
+            <img src="assets/images/avatar-angela-gray.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Angela Gray</b>
+              followed you
+              <span class="red_dot"></span>
+            </p>
+            <p class="time">5m ago</p>
+          </div>
+        </div>
+
+        <div class="notification unread">
+          <div class="img">
+            <img src="assets/images/avatar-jacob-thompson.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Jacob Thompson</b>
+              has joined your group <b class="bold_two">Chess Club</b>
+              <span class="red_dot"></span>
+            </p>
+            <p class="time">1 day ago</p>
+          </div>
+        </div>
+
+        <div class="notification">
+          <div class="img">
+            <img src="assets/images/avatar-rizky-hasanuddin.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Rizky Hasanuddin</b>
+              sent you a private message
+            </p>
+            <p class="time">5 days ago</p>
+            <div class="message">
+              <p>
+                Hello, thanks for setting up the Chess Club. I've been a member
+                for a few weeks now and I'm already having lots of fun and
+                improving my game.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="notification">
+          <div class="img">
+            <img src="assets/images/avatar-kimberly-smith.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Kimberly Smith</b>
+              commented on your picture
+            </p>
+            <p class="time">1 week ago</p>
+          </div>
+          <div class="image">
+            <img class="photo" src="assets/images/image-chess.webp" />
+          </div>
+        </div>
+
+        <div class="notification">
+          <div class="img">
+            <img src="assets/images/avatar-nathan-peterson.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Nathan Peterson</b>
+              reacted to your recent post
+              <b class="bold"
+                >5 end-game strategies to increase your win rate</b
+              >
+            </p>
+            <p class="time">2 weeks ago</p>
+          </div>
+        </div>
+
+        <div class="notification">
+          <div class="img">
+            <img src="assets/images/avatar-anna-kim.webp" />
+          </div>
+          <div class="content">
+            <p>
+              <b>Anna Kim</b>
+              left the group <b class="bold_two">Chess Club</b>
+            </p>
+            <p class="time">2 weeks ago</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
