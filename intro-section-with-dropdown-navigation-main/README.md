@@ -16,10 +16,20 @@ Your users should be able to:
 
 ### Screenshot
 
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/46370ef8-f688-4b3e-bd7a-1d5e66b41f59)
+
+![destop_dropdown](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/85456628-5c2a-4392-91be-cfdcd0dd5cc5)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/c9a12ab0-9cf1-4827-87c9-b665af3c4451)
+
+![mobile_menu](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/6fa1a91c-79a6-4303-bfef-b9dcb38ebd78)
+
+![active_state](https://github.com/Sabina1205/Frontend-mentor-challenges-4/assets/96692767/0fc90409-54cd-4096-a8c4-be775a8e4813)
+
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/edit/main/notifications-page-main/)
-- Live Site URL: [Live site URL here](https://notifications-page-solution-one.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/tree/main/intro-section-with-dropdown-navigation-main)
+- Live Site URL: [Live site URL here]()
 
 ## My process
 
