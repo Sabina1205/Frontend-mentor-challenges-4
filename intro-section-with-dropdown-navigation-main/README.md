@@ -29,7 +29,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-4/tree/main/intro-section-with-dropdown-navigation-main)
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://intro-section-with-dropdown-navigation-rouge.vercel.app/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Your users should be able to:
 
 ### What I learned
 
-Getting more comfortable with bulding menu with dropdown as well as transitioning between destop and mobile version, especially when it comes to menus.
+Getting more comfortable with bulding menu with dropdown as well as transitioning between desktop and mobile version, especially when it comes to menus.
 
 ### Continued development
 
