@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Intro section with dropdown navigation</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div class="navigation">
+        <img class="logo" src="images/logo.svg" alt="logo" />
+
+        <div class="navbar">
+          <div class="dropdown">
+            <a class="dropbtn">
+              Features
+              <img
+                src="images/icon-arrow-down.svg"
+                class="arrow-down"
+                alt="Arrow down"
+              />
+              <img
+                src="images/icon-arrow-up.svg"
+                class="arrow-up"
+                alt="Arrow up"
+              />
+            </a>
+            <div class="dropdown-content one">
+              <a href="#">
+                <img class="icon" src="images/icon-todo.svg" alt="Todo" /> Todo
+                List</a
+              >
+              <a href="#">
+                <img
+                  class="icon"
+                  src="images/icon-calendar.svg"
+                  alt="Calendar"
+                />
+                Calendar</a
+              >
+              <a href="#">
+                <img
+                  class="icon"
+                  src="images/icon-reminders.svg"
+                  alt="Reminders"
+                />
+                Reminders</a
+              >
+              <a href="#">
+                <img
+                  class="icon"
+                  src="images/icon-planning.svg"
+                  alt="Planning"
+                />
+                Planning</a
+              >
+            </div>
+          </div>
+          <div class="dropdown">
+            <a class="dropbtn">
+              Company
+              <img
+                src="images/icon-arrow-down.svg"
+                class="arrow-down"
+                alt="Arrow down"
+              />
+              <img
+                src="images/icon-arrow-up.svg"
+                class="arrow-up"
+                alt="Arrow up"
+              />
+            </a>
+            <div class="dropdown-content two">
+              <a href="#">History</a>
+              <a href="#">Our Team</a>
+              <a href="#">Blog</a>
+            </div>
+          </div>
+          <a href="#careers">Careers</a>
+          <a href="#about">About</a>
+        </div>
+        <!-- MOBILE NAVIGATION -->
+        <div class="hamburger">
+          <img class="openMenu" src="images/icon-menu.svg" />
+          <img class="closeMenu" src="images/icon-close-menu.svg" />
+        </div>
+        <div class="left"></div>
+        <div class="overflow">
+          <div class="mobile_links">
+            <div class="dropdown_mobile">
+              <a class="dropbtn_mobile">
+                Features
+                <img
+                  src="images/icon-arrow-down.svg"
+                  class="arrow-down-mobile"
+                  alt="Arrow down"
+                />
+                <img
+                  src="images/icon-arrow-up.svg"
+                  class="arrow-up-mobile"
+                  alt="Arrow up"
+                />
+              </a>
+              <div class="dropdown-content_mobile">
+                <a href="#">
+                  <img class="icon" src="images/icon-todo.svg" alt="Todo" />
+                  Todo List</a
+                >
+                <a href="#">
+                  <img
+                    class="icon"
+                    src="images/icon-calendar.svg"
+                    alt="Calendar"
+                  />
+                  Calendar</a
+                >
+                <a href="#">
+                  <img
+                    class="icon"
+                    src="images/icon-reminders.svg"
+                    alt="Reminders"
+                  />
+                  Reminders</a
+                >
+                <a href="#">
+                  <img
+                    class="icon"
+                    src="images/icon-planning.svg"
+                    alt="Planning"
+                  />
+                  Planning</a
+                >
+              </div>
+            </div>
+            <div class="dropdown_mobile">
+              <a class="dropbtn_mobile">
+                Company
+                <img
+                  src="images/icon-arrow-down.svg"
+                  class="arrow-down-mobile"
+                  alt="Arrow down"
+                />
+                <img
+                  src="images/icon-arrow-up.svg"
+                  class="arrow-up-mobile"
+                  alt="Arrow up"
+                />
+              </a>
+              <div class="dropdown-content_mobile two">
+                <a href="#">History</a>
+                <a href="#">Our Team</a>
+                <a href="#">Blog</a>
+              </div>
+            </div>
+            <a href="#careers">Careers</a>
+            <a href="#about">About</a>
+            <button id="login_mobile">Login</button>
+            <button id="register_mobile">Register</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <button id="login">Login</button>
+        <button id="register">Register</button>
+      </div>
+    </header>
+
+    <section class="hero-section">
+      <div class="left-side">
+        <div class="about-snap">
+          <h1 class="modifed-header">Make remote work</h1>
+          <p class="description">
+            Get your team in sync, no matter your location. Streamline
+            processes, create team rituals, and watch productivity soar.
+          </p>
+          <button class="learn-more-btn">Learn more</button>
+        </div>
+
+        <div class="partners">
+          <div class="partner">
+            <img src="images/client-databiz.svg" alt="databiz" />
+          </div>
+          <div class="partner">
+            <img src="images/client-audiophile.svg" alt="client-audiophile" />
+          </div>
+          <div class="partner">
+            <img src="images/client-meet.svg" alt="meet" />
+          </div>
+          <div class="partner">
+            <img src="images/client-maker.svg" alt="maker" />
+          </div>
+        </div>
+      </div>
+
+      <div class="right-side">
+        <img
+          class="image-hero-desktop"
+          src="images/image-hero-desktop.png"
+          alt="image hero"
+        />
+        <img
+          class="image-hero-mobile"
+          src="images/image-hero-mobile.png"
+          alt="image hero mobile"
+        />
+      </div>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
